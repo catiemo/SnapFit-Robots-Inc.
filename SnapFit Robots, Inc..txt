@@ -1,0 +1,17 @@
+git init
+git status
+git add disclaimer.txt
+git add instructions.txt
+git add warranty.txt
+git status
+git commit -m "adding three files"
+git log
+git add disclaimer.txt
+git commit -m "add warning to diclaimer.txt"
+git log
+git add disclaimer.txt
+git add instructions.txt
+git add warranty.txt
+git status
+git commit -m "revise files"
+git log
